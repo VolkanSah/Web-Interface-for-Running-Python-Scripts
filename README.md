@@ -1,4 +1,4 @@
-# Web Interface for Running Python Scripts via PHP Backend
+# Web Interface for Running Python Scripts (local or public)
 
 This repository provides a web interface for running various Python scripts via a PHP backend. It enables users to input prompts or commands through a web form and execute them using Python scripts, such as ChatGPT, Bard, or other useful Python scripts for developers. The results are then displayed back on the web interface.
 
