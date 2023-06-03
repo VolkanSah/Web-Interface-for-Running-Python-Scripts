@@ -14,8 +14,6 @@ This project is provided as an example and should not be considered production-r
 - **Authorization**: Implement appropriate authentication and authorization mechanisms to restrict access to the web interface and prevent unauthorized use.
 - **Secure Deployment**: Follow best practices for secure deployment, including the use of HTTPS, strong server configurations, and regular updates of dependencies.
 
-Please refer to [Best Practices for Web Application Security](your_best_practices_link) for more information on securing your web application.
-
 ## Repository Structure
 
 - `local_server.html`: This HTML file contains the web interface for running Python scripts on a local server. Please note that this interface may not be secure for public deployment.
