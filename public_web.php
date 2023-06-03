@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Public web example, more secure than local.php -->
 <html>
 <head>
     <title>Python Script Interface</title>
