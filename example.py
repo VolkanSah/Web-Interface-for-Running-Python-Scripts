@@ -1,8 +1,9 @@
 from flask import Flask, request
 import openai
 import json
-
+# example for davinci-4
 app = Flask(__name__)
+# example for davinci-4
 
 @app.route('/', methods=['POST'])
 def home():
