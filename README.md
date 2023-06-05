@@ -18,7 +18,7 @@ This project is provided as an example and should not be considered production-r
 
 - `local_server.html`: This HTML file contains the web interface for running Python scripts on a local server. Please note that this interface may not be secure for public deployment.
 - `public_server.php`: This PHP file contains the web interface for running Python scripts on a public server. Exercise caution when using this interface in a public environment and ensure that appropriate security measures are in place.
-- `your_script.py`: Replace this Python script with the specific Python script you want to run through the web interface.
+- `example.py`: Replace this Python script with the specific Python script you want to run through the web interface.
 
 ## Usage
 
@@ -26,7 +26,7 @@ This project is provided as an example and should not be considered production-r
 2. Ensure that PHP is properly configured on your server.
 3. Place the `local_server.html` or `public_server.php` file in the appropriate server directory.
 4. Customize the PHP file (`public_server.php`) to execute the desired Python script and process the user inputs.
-5. Update the Python script (`your_script.py`) or replace it with your own script to handle the user inputs and generate the desired output.
+5. Update the Python script (`example.py`) or replace it with your own script to handle the user inputs and generate the desired output.
 6. Test the web interface by accessing it through a web browser.
 7. Modify and secure the code as per your requirements before deploying it in a production environment.
 
